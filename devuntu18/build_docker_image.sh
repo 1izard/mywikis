@@ -1,0 +1,1 @@
+docker build -t devuntu:18.04 .
